@@ -1,7 +1,0 @@
-# Types of files available as part of the nightly builds
-- tar
-- deb
-- msi
-- rpm
-- js
-#- js-legacy
